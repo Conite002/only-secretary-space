@@ -1,0 +1,29 @@
+		          <div className="patient-icon col-3">
+		           	 	<img src="{props.image}" alt="" />
+		          </div>
+
+		          <div className="patient-info col-7">
+			            <div className="patient-info-name">
+			              Roberte DESCHAMPS
+			            </div>
+			            <div className="patient-info__details  row">
+			                <div className="col-4"> <span> Birth: </span>14 Mars 1999</div>
+			                <div className="col-4"> <span> Gendre: </span>Feminin</div>
+			                <div className="col-4"> <span> Addresse: </span>Qtier Kandevier</div>
+			            </div>
+			            <div className="patient-info__details row">
+			                <div className="col-4"> <span> Email: </span>lory@gmail.com</div>
+			                <div className="col-4"> <span> Contact: </span>+229 66459889</div>
+			                <div className="col-4"> <span> Language: </span>Français</div>
+			            </div>
+			            <div className="patient-info__details row">
+			                <div className="col-4"> <span> Poids: </span>24 kg</div>
+			                <div className="col-4"> <span> Pression: </span>28</div>
+			                <div className="col-4"> <span> Temperature: </span>19°</div>
+			            </div>
+			           	<div className="patient-info__details row">
+			                <div className="col-4"> <span> Groupe sanguins: </span>A</div>
+			                <div className="col-4"> <span> Allergies: </span>divers</div>
+			                <div className="col-4"> <span> Maladies: </span>X</div>
+			            </div>
+		          </div>
